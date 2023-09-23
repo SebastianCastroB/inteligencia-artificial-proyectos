@@ -1,4 +1,4 @@
-# inteligencia-artificial-proyectos
+# Inteligencia Artificial-Proyectos
 Repositorio para las entregas de los proyectos de la materia de Inteligencia Artificial
 
 # Miembros del grupo
